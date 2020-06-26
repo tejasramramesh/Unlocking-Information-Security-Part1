@@ -29,3 +29,6 @@ def brute_force(ciphertext):
 
     
 brute_force("kyvtrmrcipnzccrkkrtbwifdkyvefikynvjkrkeffe")
+
+#Plain text = thecavalrywillattackfromthenorthwestatnoon
+#Key = 17
